@@ -1,7 +1,5 @@
 <div align='center'>
 
-<img src='assets/banner.svg' alt='Yun Shen banner' width='100%' />
-
 <table>
 <tr>
 <td valign='middle' align='left'>
