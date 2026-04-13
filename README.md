@@ -112,27 +112,6 @@ My personal digital garden built with Next.js 16, MDX, smooth animations, and a 
 
 </td>
 </tr>
-<tr>
-<td width='50%' valign='top'>
-
-<a href='https://uestc.de5.net/projects'>
-  <img src='assets/tavily-proxy.png' alt='TavilyProxy' width='100%' />
-</a>
-
-### TavilyProxy
-A Tavily API proxy and key-pool management platform with unified access, failover, and admin tooling.
-
-</td>
-<td width='50%' valign='top'>
-
-### More ✨
-More projects and experiments are collected on my projects page.
-
-- 🌐 [Projects Page](https://uestc.de5.net/projects)
-- 📚 [GitHub Repositories](https://github.com/yunshenwuchuxun?tab=repositories)
-
-</td>
-</tr>
 </table>
 
 ## Connect With Me 💌
