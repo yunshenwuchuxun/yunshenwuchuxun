@@ -4,7 +4,20 @@
 <tr>
 <td valign='middle' align='left'>
 
-# Hi there, I'm Yun Shen ฅ^•ﻌ•^ฅ
+<table width='100%'>
+<tr>
+<td align='left'>
+
+## Hi there, I'm Yun Shen
+
+</td>
+<td align='right'>
+
+## ฅ^•ﻌ•^ฅ
+
+</td>
+</tr>
+</table>
 
 `AI` · `Open Source` · `Writing`
 
