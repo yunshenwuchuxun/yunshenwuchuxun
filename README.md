@@ -127,12 +127,6 @@ More projects and experiments are collected on my projects page.
   <img height='170' src='https://streak-stats.demolab.com?user=yunshenwuchuxun&theme=tokyonight&hide_border=true' alt='GitHub streak' />
 </div>
 
-## Writing ✍️
-
-- 📝 Blog: [uestc.de5.net](https://uestc.de5.net/)
-- 👀 About: [uestc.de5.net/about](https://uestc.de5.net/about)
-- 🚀 Projects: [uestc.de5.net/projects](https://uestc.de5.net/projects)
-
 ## Connect With Me 💌
 
 <p>
@@ -145,8 +139,4 @@ More projects and experiments are collected on my projects page.
 ## Tech Stack 💻
 
 `Python` `PyTorch` `LangChain` `Next.js` `React` `Tailwind CSS` `MDX`
-
-## Notes 🐱
-
-To make this work as your real GitHub profile page, copy this folder's contents into the root of a repository named exactly `yunshenwuchuxun`.
 
