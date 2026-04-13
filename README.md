@@ -40,6 +40,17 @@
 
 ---
 
+## GitHub Stats 📊
+
+<div align='center'>
+  <img height='170' src='https://raw.githubusercontent.com/yunshenwuchuxun/yunshenwuchuxun/main/generated/github-stats.svg?v=3' alt='GitHub stats' />
+  <img height='170' src='https://raw.githubusercontent.com/yunshenwuchuxun/yunshenwuchuxun/main/generated/top-langs.svg?v=3' alt='Top languages' />
+</div>
+
+<div align='center'>
+  <img height='170' src='https://streak-stats.demolab.com?user=yunshenwuchuxun&theme=tokyonight&hide_border=true' alt='GitHub streak' />
+</div>
+
 ## About Me ✨
 
 - 🎓 AI master's student based in Chengdu, China
@@ -124,24 +135,13 @@ More projects and experiments are collected on my projects page.
 </tr>
 </table>
 
-## GitHub Stats 📊
-
-<div align='center'>
-  <img height='170' src='https://raw.githubusercontent.com/yunshenwuchuxun/yunshenwuchuxun/main/generated/github-stats.svg?v=3' alt='GitHub stats' />
-  <img height='170' src='https://raw.githubusercontent.com/yunshenwuchuxun/yunshenwuchuxun/main/generated/top-langs.svg?v=3' alt='Top languages' />
-</div>
-
-<div align='center'>
-  <img height='170' src='https://streak-stats.demolab.com?user=yunshenwuchuxun&theme=tokyonight&hide_border=true' alt='GitHub streak' />
-</div>
-
 ## Connect With Me 💌
 
 <p align='center'>
-  <a href='https://github.com/yunshenwuchuxun'><img src='https://img.shields.io/badge/GitHub-Profile-ffffff?style=for-the-badge&logo=github&logoColor=181717&labelColor=ffffff&color=E5E7EB' alt='GitHub' /></a>
-  <a href='https://space.bilibili.com/1607409698'><img src='https://img.shields.io/badge/Bilibili-1607409698-ffffff?style=for-the-badge&logo=bilibili&logoColor=00A1D6&labelColor=ffffff&color=E0F2FE' alt='Bilibili' /></a>
-  <a href='https://linux.do/u/yunshen123/summary'><img src='https://img.shields.io/badge/Linux%20DO-yunshen123-ffffff?style=for-the-badge&logoColor=0f172a&labelColor=ffffff&color=E2E8F0' alt='Linux DO' /></a>
-  <a href='mailto:yunshen123456@qq.com'><img src='https://img.shields.io/badge/Email-yunshen123456%40qq.com-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=ffffff&color=FEE2E2' alt='Email' /></a>
+  <a href='https://github.com/yunshenwuchuxun'><img src='https://img.shields.io/badge/github-Profile-ffffff?style=for-the-badge&logo=github&logoColor=181717&labelColor=ffffff&color=E5E7EB' alt='GitHub' /></a>
+  <a href='https://space.bilibili.com/1607409698'><img src='https://img.shields.io/badge/bilibili-1607409698-ffffff?style=for-the-badge&logo=bilibili&logoColor=00A1D6&labelColor=ffffff&color=E0F2FE' alt='Bilibili' /></a>
+  <a href='https://linux.do/u/yunshen123/summary'><img src='https://img.shields.io/badge/linux%20do-yunshen123-ffffff?style=for-the-badge&logoColor=0f172a&labelColor=ffffff&color=E2E8F0' alt='Linux DO' /></a>
+  <a href='mailto:yunshen123456@qq.com'><img src='https://img.shields.io/badge/email-yunshen123456%40qq.com-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=ffffff&color=FEE2E2' alt='Email' /></a>
 </p>
 
 
