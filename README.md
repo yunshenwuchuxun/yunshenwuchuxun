@@ -2,18 +2,19 @@
 
 <img src='assets/banner.svg' alt='Yun Shen banner' width='100%' />
 
-<br />
-<br />
+<table>
+<tr>
+<td valign='middle' align='left'>
 
-<img src='assets/avatar.webp' alt='Yun Shen avatar' width='108' height='108' />
+# Hi there, I'm Yun Shen ฅ^•ﻌ•^ฅ
 
-# Hi there, I'm Yun Shen
+`AI` · `Open Source` · `Writing`
+
+Graduate student at UESTC building practical tools and documenting growth.
 
 <img src='https://img.shields.io/badge/UESTC-AI%20Master-2563eb?style=for-the-badge' alt='UESTC AI Master' />
 <img src='https://img.shields.io/badge/Focus-AI%20%7C%20Open%20Source%20%7C%20Writing-111827?style=for-the-badge' alt='Focus' />
 <img src='https://img.shields.io/badge/Location-Chengdu%2C%20China-059669?style=for-the-badge' alt='Location' />
-
-A graduate student at UESTC exploring AI, open source, and writing.
 
 <p>
   <a href='https://uestc.de5.net/'>Blog</a> ·
@@ -22,25 +23,32 @@ A graduate student at UESTC exploring AI, open source, and writing.
   <a href='https://github.com/yunshenwuchuxun?tab=repositories'>Repos</a>
 </p>
 
+</td>
+<td valign='middle' align='right'>
+  <img src='Cat.gif' alt='Cute cat gif' width='180' />
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## About Me
+## About Me ✨
 
-- AI master's student based in Chengdu, China
-- Interested in AI, deep learning, multimodal systems, and open-source tools
-- I write to organize what I learn and to leave a trace of growth over time
-- Languages: 中文 / English
+- 🎓 AI master's student based in Chengdu, China
+- 🤖 Interested in AI, deep learning, multimodal systems, and open-source tools
+- ✍️ I write to organize what I learn and leave a visible trail of growth
+- 🌏 Languages: 中文 / English
 
-## What I'm Doing Now
+## What I'm Doing Now 🐾
 
-- Studying and researching in the AI field
-- Improving my English through technical reading and papers
-- Maintaining my personal blog and documenting what I learn
-- Exploring practical open-source projects and developer tooling
+- 🔬 Studying and researching in the AI field
+- 📖 Improving my English through technical reading and papers
+- ✍️ Maintaining my personal blog and documenting what I learn
+- 🛠️ Exploring practical open-source projects and developer tooling
 
-## Featured Projects
+## Featured Projects 🚀
 
 <table>
 <tr>
@@ -100,17 +108,17 @@ A Tavily API proxy and key-pool management platform with unified access, failove
 </td>
 <td width='50%' valign='top'>
 
-### More
+### More ✨
 More projects and experiments are collected on my projects page.
 
-- [Projects Page](https://uestc.de5.net/projects)
-- [GitHub Repositories](https://github.com/yunshenwuchuxun?tab=repositories)
+- 🌐 [Projects Page](https://uestc.de5.net/projects)
+- 📚 [GitHub Repositories](https://github.com/yunshenwuchuxun?tab=repositories)
 
 </td>
 </tr>
 </table>
 
-## GitHub Stats
+## GitHub Stats 📊
 
 <div align='center'>
   <img height='170' src='https://raw.githubusercontent.com/yunshenwuchuxun/yunshenwuchuxun/main/generated/github-stats.svg?v=3' alt='GitHub stats' />
@@ -121,13 +129,13 @@ More projects and experiments are collected on my projects page.
   <img height='170' src='https://streak-stats.demolab.com?user=yunshenwuchuxun&theme=tokyonight&hide_border=true' alt='GitHub streak' />
 </div>
 
-## Writing
+## Writing ✍️
 
-- Blog: [uestc.de5.net](https://uestc.de5.net/)
-- About: [uestc.de5.net/about](https://uestc.de5.net/about)
-- Projects: [uestc.de5.net/projects](https://uestc.de5.net/projects)
+- 📝 Blog: [uestc.de5.net](https://uestc.de5.net/)
+- 👀 About: [uestc.de5.net/about](https://uestc.de5.net/about)
+- 🚀 Projects: [uestc.de5.net/projects](https://uestc.de5.net/projects)
 
-## Connect With Me
+## Connect With Me 💌
 
 <p>
   <a href='https://github.com/yunshenwuchuxun'><img src='https://img.shields.io/badge/GitHub-yunshenwuchuxun-181717?style=flat-square&logo=github&logoColor=white' alt='GitHub' /></a>
@@ -136,11 +144,11 @@ More projects and experiments are collected on my projects page.
   <a href='mailto:yunshen123456@qq.com'><img src='https://img.shields.io/badge/Email-yunshen123456%40qq.com-ea4335?style=flat-square&logo=gmail&logoColor=white' alt='Email' /></a>
 </p>
 
-## Tech Stack
+## Tech Stack 💻
 
 `Python` `PyTorch` `LangChain` `Next.js` `React` `Tailwind CSS` `MDX`
 
-## Notes
+## Notes 🐱
 
 To make this work as your real GitHub profile page, copy this folder's contents into the root of a repository named exactly `yunshenwuchuxun`.
 
