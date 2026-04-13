@@ -113,8 +113,8 @@ More projects and experiments are collected on my projects page.
 ## GitHub Stats
 
 <div align='center'>
-  <img height='170' src='https://github-readme-stats.vercel.app/api?username=yunshenwuchuxun&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github' alt='GitHub stats' />
-  <img height='170' src='https://github-readme-stats.vercel.app/api/top-langs/?username=yunshenwuchuxun&layout=compact&theme=tokyonight&hide_border=true' alt='Top languages' />
+  <img height='170' src='https://raw.githubusercontent.com/yunshenwuchuxun/yunshenwuchuxun/main/generated/github-stats.svg?v=2' alt='GitHub stats' />
+  <img height='170' src='https://raw.githubusercontent.com/yunshenwuchuxun/yunshenwuchuxun/main/generated/top-langs.svg?v=2' alt='Top languages' />
 </div>
 
 <div align='center'>
