@@ -12,24 +12,19 @@ jobs:
   stats:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate stats card
-        uses: stats-organization/readme-stats-action@v1
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
-          card: stats
-          username: yunshenwuchuxun
-          path: generated/github-stats.svg
-          options: theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github
+          USERNAME: yunshenwuchuxun
+          BRANCH_NAME: main
 
-      - name: Generate top languages card
-        uses: stats-organization/readme-stats-action@v1
-        with:
-          card: top-langs
-          username: yunshenwuchuxun
-          path: generated/top-langs.svg
-          options: theme=tokyonight&hide_border=true&layout=compact&langs_count=8
+      - name: Prepare generated cards
+        run: |
+          mkdir -p generated
+          cp profile-summary-card-output/3-stats.svg generated/github-stats.svg
+          cp profile-summary-card-output/2-most-commit-language.svg generated/top-langs.svg
 
       - name: Commit generated cards
         run: |
