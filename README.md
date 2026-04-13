@@ -6,13 +6,25 @@
 
 # Hi there, I'm Yun Shen        ฅ^•ﻌ•^ฅ
 
-`AI` · `Open Source` · `Writing`
+<p>
+  <img src='https://img.shields.io/badge/AI-Open%20Source%20%7C%20Writing-f8fafc?style=flat-square&labelColor=f8fafc&color=f8fafc' alt='AI Open Source Writing' />
+</p>
 
 Graduate student at UESTC building practical tools and documenting growth.
 
 <img src='https://img.shields.io/badge/UESTC-AI%20Master-2563eb?style=for-the-badge' alt='UESTC AI Master' />
 <img src='https://img.shields.io/badge/Focus-AI%20%7C%20Open%20Source%20%7C%20Writing-111827?style=for-the-badge' alt='Focus' />
 <img src='https://img.shields.io/badge/Location-Chengdu%2C%20China-059669?style=for-the-badge' alt='Location' />
+
+<p>
+  <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' alt='Python' />
+  <img src='https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white' alt='PyTorch' />
+  <img src='https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white' alt='LangChain' />
+  <img src='https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white' alt='Next.js' />
+  <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='React' />
+  <img src='https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white' alt='Tailwind CSS' />
+  <img src='https://img.shields.io/badge/MDX-000000?style=for-the-badge&logo=mdx&logoColor=white' alt='MDX' />
+</p>
 
 <p>
   <a href='https://uestc.de5.net/'>Blog</a> ·
@@ -136,7 +148,4 @@ More projects and experiments are collected on my projects page.
   <a href='mailto:yunshen123456@qq.com'><img src='https://img.shields.io/badge/Email-yunshen123456%40qq.com-ea4335?style=flat-square&logo=gmail&logoColor=white' alt='Email' /></a>
 </p>
 
-## Tech Stack 💻
-
-`Python` `PyTorch` `LangChain` `Next.js` `React` `Tailwind CSS` `MDX`
 
