@@ -2,21 +2,17 @@
 
 <table>
 <tr>
-<td valign='middle' align='left'>
+<td valign='middle' align='center'>
 
 # Hi there, I'm Yun Shen        ฅ^•ﻌ•^ฅ
 
-<p>
+<p align='center'>
   <img src='https://img.shields.io/badge/AI-Open%20Source%20%7C%20Writing-f8fafc?style=flat-square&labelColor=f8fafc&color=f8fafc' alt='AI Open Source Writing' />
 </p>
 
-Graduate student at UESTC building practical tools and documenting growth.
+<p align='center'>Graduate student at UESTC building practical tools and documenting growth.</p>
 
-<img src='https://img.shields.io/badge/UESTC-AI%20Master-2563eb?style=for-the-badge' alt='UESTC AI Master' />
-<img src='https://img.shields.io/badge/Focus-AI%20%7C%20Open%20Source%20%7C%20Writing-111827?style=for-the-badge' alt='Focus' />
-<img src='https://img.shields.io/badge/Location-Chengdu%2C%20China-059669?style=for-the-badge' alt='Location' />
-
-<p>
+<p align='center'>
   <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' alt='Python' />
   <img src='https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white' alt='PyTorch' />
   <img src='https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white' alt='LangChain' />
@@ -26,7 +22,7 @@ Graduate student at UESTC building practical tools and documenting growth.
   <img src='https://img.shields.io/badge/MDX-000000?style=for-the-badge&logo=mdx&logoColor=white' alt='MDX' />
 </p>
 
-<p>
+<p align='center'>
   <a href='https://uestc.de5.net/'>Blog</a> ·
   <a href='https://uestc.de5.net/about'>About</a> ·
   <a href='https://uestc.de5.net/projects'>Projects</a> ·
@@ -141,11 +137,11 @@ More projects and experiments are collected on my projects page.
 
 ## Connect With Me 💌
 
-<p>
-  <a href='https://github.com/yunshenwuchuxun'><img src='https://img.shields.io/badge/GitHub-yunshenwuchuxun-181717?style=flat-square&logo=github&logoColor=white' alt='GitHub' /></a>
-  <a href='https://space.bilibili.com/1607409698'><img src='https://img.shields.io/badge/Bilibili-1607409698-00A1D6?style=flat-square&logo=bilibili&logoColor=white' alt='Bilibili' /></a>
-  <a href='https://linux.do/u/yunshen123/summary'><img src='https://img.shields.io/badge/Linux%20DO-yunshen123-0f172a?style=flat-square' alt='Linux DO' /></a>
-  <a href='mailto:yunshen123456@qq.com'><img src='https://img.shields.io/badge/Email-yunshen123456%40qq.com-ea4335?style=flat-square&logo=gmail&logoColor=white' alt='Email' /></a>
+<p align='center'>
+  <a href='https://github.com/yunshenwuchuxun'><img src='https://img.shields.io/badge/GitHub-Profile-ffffff?style=for-the-badge&logo=github&logoColor=181717&labelColor=ffffff&color=E5E7EB' alt='GitHub' /></a>
+  <a href='https://space.bilibili.com/1607409698'><img src='https://img.shields.io/badge/Bilibili-1607409698-ffffff?style=for-the-badge&logo=bilibili&logoColor=00A1D6&labelColor=ffffff&color=E0F2FE' alt='Bilibili' /></a>
+  <a href='https://linux.do/u/yunshen123/summary'><img src='https://img.shields.io/badge/Linux%20DO-yunshen123-ffffff?style=for-the-badge&logoColor=0f172a&labelColor=ffffff&color=E2E8F0' alt='Linux DO' /></a>
+  <a href='mailto:yunshen123456@qq.com'><img src='https://img.shields.io/badge/Email-yunshen123456%40qq.com-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=ffffff&color=FEE2E2' alt='Email' /></a>
 </p>
 
 
